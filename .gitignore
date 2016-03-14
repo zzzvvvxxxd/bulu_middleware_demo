@@ -3,4 +3,5 @@ client/target
 server/target
 
 .idea
-.iml
+*.iml
+*.class
