@@ -5,3 +5,4 @@ server/target
 .idea
 *.iml
 *.class
+*.log
