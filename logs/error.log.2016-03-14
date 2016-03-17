@@ -1,0 +1,41 @@
+2016-03-14 19:17:11  [ main:0 ] - [ DEBUG ]  sss
+2016-03-14 19:19:59  [ main:0 ] - [ DEBUG ]  Using Log4J as the default logging framework
+2016-03-14 19:19:59  [ main:9 ] - [ DEBUG ]  -Dio.netty.eventLoopThreads: 8
+2016-03-14 19:19:59  [ main:24 ] - [ DEBUG ]  java.nio.Buffer.address: available
+2016-03-14 19:19:59  [ main:25 ] - [ DEBUG ]  sun.misc.Unsafe.theUnsafe: available
+2016-03-14 19:19:59  [ main:26 ] - [ DEBUG ]  sun.misc.Unsafe.copyMemory: available
+2016-03-14 19:19:59  [ main:27 ] - [ DEBUG ]  java.nio.Bits.unaligned: true
+2016-03-14 19:19:59  [ main:27 ] - [ DEBUG ]  Java version: 8
+2016-03-14 19:19:59  [ main:28 ] - [ DEBUG ]  -Dio.netty.noUnsafe: false
+2016-03-14 19:19:59  [ main:28 ] - [ DEBUG ]  sun.misc.Unsafe: available
+2016-03-14 19:19:59  [ main:28 ] - [ DEBUG ]  -Dio.netty.noJavassist: false
+2016-03-14 19:19:59  [ main:31 ] - [ DEBUG ]  Javassist: unavailable
+2016-03-14 19:19:59  [ main:31 ] - [ DEBUG ]  You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2016-03-14 19:19:59  [ main:31 ] - [ DEBUG ]  -Dio.netty.tmpdir: /var/folders/c8/fd8cgt3131zgf3c3hsdx32zr0000gn/T (java.io.tmpdir)
+2016-03-14 19:19:59  [ main:32 ] - [ DEBUG ]  -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2016-03-14 19:19:59  [ main:32 ] - [ DEBUG ]  -Dio.netty.noPreferDirect: false
+2016-03-14 19:19:59  [ main:112 ] - [ DEBUG ]  -Dio.netty.noKeySetOptimization: false
+2016-03-14 19:19:59  [ main:118 ] - [ DEBUG ]  -Dio.netty.selectorAutoRebuildThreshold: 512
+2016-03-14 19:21:24  [ main:0 ] - [ DEBUG ]  Using Log4J as the default logging framework
+2016-03-14 19:21:24  [ main:13 ] - [ DEBUG ]  -Dio.netty.eventLoopThreads: 8
+2016-03-14 19:21:24  [ main:45 ] - [ DEBUG ]  java.nio.Buffer.address: available
+2016-03-14 19:21:24  [ main:46 ] - [ DEBUG ]  sun.misc.Unsafe.theUnsafe: available
+2016-03-14 19:21:24  [ main:48 ] - [ DEBUG ]  sun.misc.Unsafe.copyMemory: available
+2016-03-14 19:21:24  [ main:48 ] - [ DEBUG ]  java.nio.Bits.unaligned: true
+2016-03-14 19:21:24  [ main:49 ] - [ DEBUG ]  Java version: 8
+2016-03-14 19:21:24  [ main:51 ] - [ DEBUG ]  -Dio.netty.noUnsafe: false
+2016-03-14 19:21:24  [ main:52 ] - [ DEBUG ]  sun.misc.Unsafe: available
+2016-03-14 19:21:24  [ main:53 ] - [ DEBUG ]  -Dio.netty.noJavassist: false
+2016-03-14 19:21:24  [ main:55 ] - [ DEBUG ]  Javassist: unavailable
+2016-03-14 19:21:24  [ main:55 ] - [ DEBUG ]  You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2016-03-14 19:21:24  [ main:56 ] - [ DEBUG ]  -Dio.netty.tmpdir: /var/folders/c8/fd8cgt3131zgf3c3hsdx32zr0000gn/T (java.io.tmpdir)
+2016-03-14 19:21:24  [ main:56 ] - [ DEBUG ]  -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2016-03-14 19:21:24  [ main:57 ] - [ DEBUG ]  -Dio.netty.noPreferDirect: false
+2016-03-14 19:21:24  [ main:103 ] - [ DEBUG ]  -Dio.netty.noKeySetOptimization: false
+2016-03-14 19:21:24  [ main:108 ] - [ DEBUG ]  -Dio.netty.selectorAutoRebuildThreshold: 512
+2016-03-14 19:21:24  [ main:124 ] - [ INFO ]  Try to connect to remote host: 127.0.0.1 on port: 9981
+2016-03-14 19:21:24  [ main:190 ] - [ DEBUG ]  -Dio.netty.initialSeedUniquifier: 0x7c31371bddfa1ccd (took 18 ms)
+2016-03-14 19:21:24  [ main:267 ] - [ DEBUG ]  -Dio.netty.allocator.type: unpooled
+2016-03-14 19:21:24  [ main:269 ] - [ DEBUG ]  -Dio.netty.threadLocalDirectBufferSize: 65536
+2016-03-14 19:23:20  [ main:0 ] - [ INFO ]  Try to connect to remote host: 127.0.0.1 on port: 9981
+2016-03-14 19:26:50  [ main:0 ] - [ INFO ]  Try to connect to remote host: 127.0.0.1 on port: 9981
